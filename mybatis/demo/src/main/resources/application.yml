@@ -1,0 +1,5 @@
+girl:
+    name: Alice
+    age: 20
+    content: content:${name},${age}s
+
